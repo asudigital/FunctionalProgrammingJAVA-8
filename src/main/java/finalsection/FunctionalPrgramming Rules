@@ -1,0 +1,13 @@
+PURE FUNCTIONAL PROGRAMMING HAS A SET OF
+RULES TO FOLLOW
+
+
+1.No state - should not depends upon a outside variable , which is not defined in the scope of that function
+
+2.Pure Functions - function should not depends upon  global variable
+
+3. No Side Effects : Function have no side effect other than everything inside of the body of your function
+
+4.Higher Order Functions
+  *The function takes one or more functions as parameters.
+  *The function returns another function as a result.
